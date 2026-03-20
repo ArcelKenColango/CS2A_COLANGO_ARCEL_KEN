@@ -15,7 +15,7 @@ html, body
 {
 	color: white;
 	font: 11px/16px "trebuchet ms", arial, helvetica, sans;
-	background: #3a200a url(picturs/bg.gif) repeat-y center top;
+	background: #3a200a url(pictures/bg.gif) repeat-y center top;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -65,13 +65,13 @@ abbr
 /* specific divs */
 footer
 {
-	background: transparent url(/picturs/footer_bgg.jpg) no-repeat left bottom;
+	background: transparent url(pictures/footer_bg.jpg) no-repeat left bottom;
 	padding: 20px 0 60px 22px;
 }
 
 .page-wrapper
 {
-	background: #4E0206 url(/picturs/steinee.png) repeat-y;
+	background: #4E0206 url(pictures/steine.png) repeat-y;
 	display: block;
 	margin: 0 auto;
 	padding: 0;
@@ -81,14 +81,14 @@ footer
 
 .design-selection
 {
-	background: #601515 url(/picturs/kasten1_03.jpg) no-repeat left bottom;
+	background: #601515 url(pictures/kasten1_03.jpg) no-repeat left bottom;
 	padding-bottom: 30px;
 	position: relative;
 }
 
 .design-archives, .zen-resources
 {
-	background: #b99ab8 url(/picturs/blume_unten.jpg) no-repeat left bottom;
+	background: #b99ab8 url(pictures/blume_unten.jpg) no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 15px;
 }
@@ -96,7 +96,7 @@ footer
 /* header graphics */
 header
 {
-	background: url(/picturs/topp.jpg) no-repeat 0 0;
+	background: url(pictures/top.jpg) no-repeat 0 0;
 	text-indent: -2000px;
 	margin: 0;
 	padding: 0;
@@ -106,7 +106,7 @@ header
 header h2
 {
 	line-height: 0;
-	background: #601515 url(/picturs/headlines_02.jpg) no-repeat;
+	background: #601515 url(pictures/headlines_02.jpg) no-repeat;
 	text-indent: -2000px;
 	display: block;
 	margin: 0;
@@ -153,7 +153,7 @@ h1, h2 { display: none; }
 
 .preamble h3
 {
-	background: url(/picturs/headlines_03.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_03.jpg) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -162,7 +162,7 @@ h1, h2 { display: none; }
 
 .explanation h3
 {
-	background: url(/picturs/headlines_04.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_04.jpg) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -171,7 +171,7 @@ h1, h2 { display: none; }
 
 .participation h3
 {
-	background: url(/picturs/headlines_05.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_05.jpg) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -180,7 +180,7 @@ h1, h2 { display: none; }
 
 .benefits h3
 {
-	background: url(/picturs/headlines_06.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_06.jpg) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -189,7 +189,7 @@ h1, h2 { display: none; }
 
 .requirements h3
 {
-	background: url(/picturs/headlines_07.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_07.jpg) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -243,14 +243,14 @@ h1, h2 { display: none; }
 
 .sidebar h3.select
 {
-	background: url(/picturs/kastenlilie.png) no-repeat left top;
+	background: url(pictures/kastenlilie.png) no-repeat left top;
 	position: relative;
 	right: 38px;
 }
 
 .sidebar h3.archives
 {
-	background: url(/picturs/liliarchives_01.png) no-repeat left top;
+	background: url(pictures/liliarchives_01.png) no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
@@ -258,7 +258,7 @@ h1, h2 { display: none; }
 
 .sidebar h3.resources
 {
-	background: url(/picturs/liliresourcen_01.png) no-repeat left top;
+	background: url(pictures/liliresourcen_01.png) no-repeat left top;
 	margin-top: 23px;
 	position: relative;
 	right: 38px;
@@ -294,7 +294,7 @@ h1, h2 { display: none; }
 {
 	font-size: 11px;
 	line-height: 11px;
-	background: url(/picturs/bullet1.gif) no-repeat 0 12px;
+	background: url(pictures/bullet1.gif) no-repeat 0 12px;
 	list-style-type: none;
 	display: block;
 	margin: 0 0 0 14px;
@@ -338,7 +338,7 @@ h1, h2 { display: none; }
 
 .sidebar .design-archives li, .sidebar .zen-resources li
 {
-	background: url(/picturs/bullet2.gif) no-repeat 0 9px;
+	background: url(pictures/bullet2.gif) no-repeat 0 9px;
 	list-style-type: none;
 	display: block;
 	margin-left: 14px;
