@@ -65,7 +65,7 @@ abbr
 /* specific divs */
 footer
 {
-	background: transparent url(pictures/footer_bg.jpg) no-repeat left bottom;
+	background: transparent url(pictures/footer_bg.png) no-repeat left bottom;
 	padding: 20px 0 60px 22px;
 }
 
@@ -81,14 +81,14 @@ footer
 
 .design-selection
 {
-	background: #601515 url(pictures/kasten1_03.jpg) no-repeat left bottom;
+	background: #601515 url(pictures/kasten1_03.png) no-repeat left bottom;
 	padding-bottom: 30px;
 	position: relative;
 }
 
 .design-archives, .zen-resources
 {
-	background: #b99ab8 url(pictures/blume_unten.jpg) no-repeat left bottom;
+	background: #b99ab8 url(pictures/blume_unten.png) no-repeat left bottom;
 	margin-top: 26px;
 	padding-bottom: 15px;
 }
@@ -96,7 +96,7 @@ footer
 /* header graphics */
 header
 {
-	background: url(pictures/top.jpg) no-repeat 0 0;
+	background: url(pictures/top.png) no-repeat 0 0;
 	text-indent: -2000px;
 	margin: 0;
 	padding: 0;
@@ -106,7 +106,7 @@ header
 header h2
 {
 	line-height: 0;
-	background: #601515 url(pictures/headlines_02.jpg) no-repeat;
+	background: #601515 url(pictures/headlines_02.png) no-repeat;
 	text-indent: -2000px;
 	display: block;
 	margin: 0;
@@ -153,7 +153,7 @@ h1, h2 { display: none; }
 
 .preamble h3
 {
-	background: url(pictures/headlines_03.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_03.png) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -162,7 +162,7 @@ h1, h2 { display: none; }
 
 .explanation h3
 {
-	background: url(pictures/headlines_04.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_04.png) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -171,7 +171,7 @@ h1, h2 { display: none; }
 
 .participation h3
 {
-	background: url(pictures/headlines_05.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_05.png) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -180,7 +180,7 @@ h1, h2 { display: none; }
 
 .benefits h3
 {
-	background: url(pictures/headlines_06.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_06.png) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
@@ -189,7 +189,7 @@ h1, h2 { display: none; }
 
 .requirements h3
 {
-	background: url(pictures/headlines_07.jpg) no-repeat 0 0;
+	background: url(pictures/headlines_07.png) no-repeat 0 0;
 	margin: 0;
 	padding: 0;
 	width: 370px;
